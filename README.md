@@ -1,6 +1,6 @@
 # Shell Command
 
-Um interpretador de linha de comando em C++ para executar comandos internos e externos de forma simples.
+Um interpretador de linha de comando em C++ para executar comandos internos e externos.
 
 ## Requisitos
 
